@@ -1,0 +1,9 @@
+.btn{
+    background-color: blueviolet;
+}
+.table,tr,td{
+    border: 5px;
+    border-color: black;
+    background-color: rgb(63, 118, 180);
+    border-radius: 10px;
+}
